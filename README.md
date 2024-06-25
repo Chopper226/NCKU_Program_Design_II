@@ -13,3 +13,5 @@
 
 ### 專題 ( 25/25 )
 * [Final Project ( 25/25 )](https://github.com/Chopper226/PKGame)
+* 負責 : 各遊戲串接、小遊戲製作
+* 小遊戲 : 1A2B、2048、greedySnake、minesweeper、speedyArrows、whackAMole
