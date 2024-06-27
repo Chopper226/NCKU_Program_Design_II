@@ -5,10 +5,10 @@
 * 最終成績 : 96/100 ( 排名 : 6/163	)
 
 ### 作業 ( 54/55 )
-* [HW1 ( 11/11 )](https://chuangkt.notion.site/PD2-Homework-1-3fce92cd9b504721bdefc0d214e9bad0?pvs=4)
-* [HW2 ( 10/11 )](https://chuangkt.notion.site/PD2-Homework-2-925a35651a774200896af8c51bebc9a4?pvs=25)
-* [HW3 ( 11/11 )](https://chuangkt.notion.site/PD2-Homework-3-f52f072e460d4308a60cc35d09a94e82)
-* [HW4 ( 11/11 )](https://chuangkt.notion.site/PD2-Homework-4-c0e5067160b54a80abba95ac1db56750)
+* [Hw1 ( 11/11 )](https://chuangkt.notion.site/PD2-Homework-1-3fce92cd9b504721bdefc0d214e9bad0?pvs=4)
+* [Hw2 ( 10/11 )](https://chuangkt.notion.site/PD2-Homework-2-925a35651a774200896af8c51bebc9a4?pvs=25)
+* [Hw3 ( 11/11 )](https://chuangkt.notion.site/PD2-Homework-3-f52f072e460d4308a60cc35d09a94e82)
+* [Hw4 ( 11/11 )](https://chuangkt.notion.site/PD2-Homework-4-c0e5067160b54a80abba95ac1db56750)
 * [Hw5 ( 11/11 )](https://chuangkt.notion.site/PD2-Homework-5-3073f9725782416bafac5a96298e9680?pvs=25)
 
 ### 專題 ( 25/25 )
